@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+<g>
+  <circle cx="150" cy="150" r="140" fill="#FFFFFF" stroke="#0000FF" stroke-width="10" />
+  <g>
+    <text x="130" y="50" font-size="30pt">12</text>
+    <text x="250" y="160" font-size="30pt">3</text>
+    <text x="135" y="280" font-size="30pt">6</text>
+    <text x="30" y="160" font-size="30pt">9</text>
+  </g>
+  <line xml:id="h_line" x1="150" y1="150" x2="150" y2="0"
+     stroke="#000000" stroke-width="5" />
+  <line xml:id="m_line" x1="150" y1="150" x2="150" y2="0"
+     stroke="#000000" stroke-width="5" />
+  <line xml:id="s_line" x1="150" y1="150" x2="150" y2="0"
+     stroke="#FF0000" stroke-width="5" />
+</g>
+</svg>
